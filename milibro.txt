@@ -1,1 +1,1 @@
-Este libro va a ser un interesante experimento.
+Este libro va a ser un interesante experimento para aprender git.
