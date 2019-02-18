@@ -1,1 +1,2 @@
 Este libro va a ser un interesante experimento para aprender git.
+Siendo esta nuestra primera semana en el Babel Camp 4.0.
