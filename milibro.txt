@@ -1,3 +1,3 @@
 Este libro va a ser un interesante experimento para aprender git.
-Siendo esta nuestra primera semana, el segundo día, en el Babel Camp 2019 4.0 MERGE CONFLICT
+Siendo esta nuestra primera semana, el segundo día, en el Babel Camp 2019 4.0 MERGE CONFLICT cualquier cosa
 Una bonita mañana de Febrero. Pero madrugando demasiado...
