@@ -1,3 +1,3 @@
 Este libro va a ser un interesante experimento para aprender git.
-Siendo esta nuestra primera semana, ESTO ESTÁ MAL
+Siendo esta nuestra primera semana, el segundo día, en el Babel Camp 2019 4.0
 Una bonita mañana de Febrero. Pero madrugando demasiado...
